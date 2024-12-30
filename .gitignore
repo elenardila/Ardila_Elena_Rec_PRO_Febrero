@@ -1,0 +1,8 @@
+# Directorio binario 
+bin/ 
+
+# Directorio de compilación 
+build/ 
+
+# Archivos de configuración 
+*.properties
