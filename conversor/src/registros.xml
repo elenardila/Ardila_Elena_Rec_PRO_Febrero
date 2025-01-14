@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<registros>
+    <registro>
+        <Nombre>Paco</Nombre>
+        <Edad>25</Edad>
+        <Email>paco@example.com</Email>
+    </registro>
+    <registro>
+        <Nombre>Cristina</Nombre>
+        <Edad>30</Edad>
+        <Email>cristina@example.com</Email>
+    </registro>
+    <registro>
+        <Nombre>Claudia</Nombre>
+        <Edad>22</Edad>
+        <Email>claudia@example.com</Email>
+    </registro>
+</registros>
